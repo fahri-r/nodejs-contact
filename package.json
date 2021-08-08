@@ -12,5 +12,10 @@
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.6.0",
+    "yargs": "^17.1.0"
   }
 }
